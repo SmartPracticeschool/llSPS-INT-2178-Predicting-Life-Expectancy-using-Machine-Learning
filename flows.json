@@ -1,1 +1,0 @@
-[{"id":"c9ac629d.203e8","type":"http request","z":"7f4dbbe6.6c04f4","name":"","method":"POST","ret":"obj","paytoqs":false,"url":"https://eu-gb.ml.cloud.ibm.com/v4/deployments/ee8233e7-b357-4733-9e77-fcc2394a3492/predictions","tls":"","persist":false,"proxy":"","authType":"","x":710,"y":300,"wires":[["68b090c1.1a8b5","bd68dc9a.8971c"]]}]
